@@ -5,6 +5,7 @@ import javax.persistence.*;
 @Entity
 @Table(name = "section_management")
 public class SectionManagement {
+    //commit
     @Id
     @Column(name = "section_code")
     private String sectionCode;
