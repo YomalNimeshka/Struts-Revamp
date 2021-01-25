@@ -8,7 +8,7 @@ Command eg: `cd Frontend- React`.
 
 Once inside react-springboot folder run  `npm install` to install the node modules.
 
-#To Start React application
+# To Start React application
 
 Inside react-springboot folder use command `npm start`.
 
